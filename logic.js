@@ -57,6 +57,7 @@ for (var i = 0; i < 10; i++) {
         }
 
     }
-    alert("Wins: " + wins + " -- Loses: " + losses + " -- Ties: " + ties);
 
+    alert("Wins: " + wins + " -- Losses: " + losses + " -- Ties: " + ties);
+    
 }
